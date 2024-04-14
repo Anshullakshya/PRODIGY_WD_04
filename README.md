@@ -1,6 +1,4 @@
-Here's a LinkedIn comment you can post to share your experience and learning from designing the contact section for your portfolio:
 
----
 
 I've been working on designing the contact section for my portfolio website, and it has been a great opportunity to refine my web development skills! This project has taught me the importance of creating an intuitive and user-friendly experience for visitors. I focused on crafting a clean and efficient contact form that provides a seamless way for potential collaborators to get in touch.
 
